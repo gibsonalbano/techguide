@@ -1,4 +1,4 @@
-# C#
+# C# 
 ## Nivel 1
 - [ ] **C# - Fundamentos**:
    - C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). É projetada para funcionar na Common Language Infrastructure da plataforma .NET Framework.
